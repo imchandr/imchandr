@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cksahuu@gmail.com**
 
-- 📄 Know about my experiences [https://chandr.netlify.app/assets/docs/resume.pdf](https://chandr.netlify.app/assets/docs/resume.pdf)
+- 📄 Know about my experiences [Resume](https://chandr.netlify.app/assets/docs/Chandr_resume.pdf)
 
 - ⚡ Currently Reading **The catcher in the rye**
 
